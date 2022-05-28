@@ -1,0 +1,11 @@
+name: MineTrade
+version: 1.0
+author: Jan2808
+main: com.uroria.minetrade.MineTrade
+
+api-version: 1.18
+description: MineTrade manages all your trades
+
+commands:
+  minetrade:
+  mt:

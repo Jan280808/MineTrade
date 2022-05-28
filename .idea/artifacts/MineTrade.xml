@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MineTrade">
+    <output-path>$USER_HOME$/Desktop/Network/localhost/plugins</output-path>
+    <root id="archive" name="MineTrade.jar">
+      <element id="module-output" name="MineTrade" />
+    </root>
+  </artifact>
+</component>
